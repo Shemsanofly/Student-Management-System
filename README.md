@@ -7,6 +7,7 @@ I created this simple Student Management System to practice the basics of C++ li
 The program is console-based and helps manage student records in a simple way.
 
 What It Can Do
+
 Login system for admin
 Add student details
 Display all students
@@ -21,6 +22,7 @@ Username: admin
 Password: 1234
 
 ▶️ How to Run (Using Dev-C++)
+
 Open Dev-C++
 Create a new file (File → New → Source File)
 Paste the code into the file
@@ -29,6 +31,7 @@ Click Compile & Run (F11)
 Enter the login details and use the system
 
 What I Learned From This Project
+
 How to use functions in C++
 How to use structures (struct)
 Working with vectors
